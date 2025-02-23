@@ -17,7 +17,7 @@
 <h2>Avisos</h2>
 <p>O JarCreator já inclui o MANIFEST.MF dentro do arquivo jar (Criado pelo JarCreator).</p>
 
-<h3>Hierarquia recomendada</h3>
+<h2>Hierarquia recomendada</h2>
 
 <h3>1. (Pasta/Arquivo)</h3>
 <h4>Projeto</h4>
